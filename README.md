@@ -2,7 +2,7 @@
 
 ## Informal Code Review
 [![Informal Code Review]
-(https://img.youtube.com/vi/yvcHImLN97k/maxresdefault.jpg)]
+(https://img.youtube.com/vi/yvcHImLN97k/maxresdefault.jpg)
 (https://www.youtube.com/watch?v=yvcHImLN97k)
 ## Enhancement One
 - [Github Repository](https://github.com/melcian404/Comp-Graphic-and-Visualization)
