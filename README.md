@@ -1,7 +1,8 @@
 # Welcome to my ePortfolio
 
-## Click Below For Informal Code Review
+## Informal Code Review
 [![Code Review](https://img.youtube.com/vi/yvcHImLN97k/maxresdefault.jpg)](https://www.youtube.com/watch?v=yvcHImLN97k)
+
 ## Enhancement One
 - [Github Repository](https://github.com/melcian404/Comp-Graphic-and-Visualization)
 - Description
