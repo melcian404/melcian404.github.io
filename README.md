@@ -6,6 +6,9 @@
 
 ***
 ## Enhancement One
+<video width="320" height="240" controls loop="" muted = "" autoplay="">
+  <source src="https://github.com/melcian404/melcian404.github.io/raw/refs/heads/main/docs/assets/3Dvid.mp4">
+</video>
 - [Github Repository](https://github.com/melcian404/Comp-Graphic-and-Visualization)
 - Description
 - Enhancements
