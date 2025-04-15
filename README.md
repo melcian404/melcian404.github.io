@@ -22,28 +22,66 @@
 </details>
 
 <details>
-	<summary>Project Enhancements</summary>
-	The enhancements for this artifact were completed on March, 23, 2025. Enhancments include:
-	
-	* Refined inline comments to be concise and descriptive for detailing each function of code.
- 
-	* Adding block comments to detail portions of code completed. 
- 
-	* Adding three complex objects of varying shapes, colors, sizes, and characteristics.
- 
-	* Refined and combined object methods to reduce code redundancies.
+  <summary>Project Enhancements</summary>
+
+  -  Refined inline comments to be concise and descriptive for detailing each function of code.
+  -  Adding block comments to detail portions of code completed.
+  -  Adding three complex objects of varying shapes, colors, sizes, and characteristics.
+  -  Refined and combined object methods to reduce code redundancies.
+
 </details>
 
-## Enhancements Completed
-    
-The enhancements for this artifact were completed on March 23, 2025. Enhancements include:
-- Refined inline comments to be concise and descriptive for detailing each function of code.
-- Adding block comments to detail portions of code completed. 
-- Adding three complex objects of varying shapes, colors, sizes, and characteristics.
-- Refined and combined object methods to reduce code redundancies.
+<details>
+  <summary>Created Object Example</summary>
 
-## Results
-![EnhancedScene](https://github.com/user-attachments/assets/398ef908-d168-4322-82c2-bada2986b3fd)    
+```C++
+	void SceneManager::RenderTrees(){
+
+		// declare the variables for the transformations
+		glm::vec3 scaleXYZ;
+		float XrotationDegrees = 0.0f;
+		float YrotationDegrees = 0.0f;
+		float ZrotationDegrees = 0.0f;
+		glm::vec3 positionXYZ;
+
+	// LEFT TREE TOP
+		// Set object scale
+		scaleXYZ = glm::vec3(3.0f, 8.0f, 3.0f);
+
+		// set the XYZ rotation for the mesh
+		XrotationDegrees = 0.0f;
+		YrotationDegrees = 0.0f;
+		ZrotationDegrees = 0.0f;
+
+		// set object position   L-R     U-D    F-B
+		positionXYZ = glm::vec3(-15.5f, 2.53f, -9.5f);
+
+		// set the transformations into memory to be used on the drawn meshes
+		SetTransformations(
+			scaleXYZ,
+			XrotationDegrees,
+			YrotationDegrees,
+			ZrotationDegrees,
+			positionXYZ);
+	
+		// set texture and material
+		SetShaderTexture("Treetop");
+		SetTextureUVScale(2.0, 4.0);
+		SetShaderMaterial("wood");
+	
+		// draw mesh
+		m_basicMeshes->DrawConeMesh();
+	```.
+
+</details>
+
+
+<details>
+  <summary>Result Image</summary>
+
+![EnhancedScene](https://github.com/user-attachments/assets/398ef908-d168-4322-82c2-bada2986b3fd)
+
+</details>
 
 ## Created Object Example
 ```C++
