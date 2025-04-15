@@ -7,7 +7,7 @@
 ***
 ## C++ with Visual Studio IDE - 3D Scene Enhancement One
 
-<video width="320" height="240" controls loop="" muted = "" autoplay="">
+<video width="420" height="340" controls loop="" muted = "" autoplay="">
   <source src="https://github.com/melcian404/melcian404.github.io/raw/refs/heads/main/docs/assets/3Dvid.mp4">
 </video>
 
