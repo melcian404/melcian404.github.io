@@ -12,8 +12,6 @@
 </video>
 
 [Github Repository](https://github.com/melcian404/CPP-3D-Scene)
-	
-
 
 
 <details>
@@ -34,57 +32,7 @@
 <details>
   <summary>Created Object Example</summary>
 
-```C++
-	void SceneManager::RenderTrees(){
-
-		// declare the variables for the transformations
-		glm::vec3 scaleXYZ;
-		float XrotationDegrees = 0.0f;
-		float YrotationDegrees = 0.0f;
-		float ZrotationDegrees = 0.0f;
-		glm::vec3 positionXYZ;
-
-	// LEFT TREE TOP
-		// Set object scale
-		scaleXYZ = glm::vec3(3.0f, 8.0f, 3.0f);
-
-		// set the XYZ rotation for the mesh
-		XrotationDegrees = 0.0f;
-		YrotationDegrees = 0.0f;
-		ZrotationDegrees = 0.0f;
-
-		// set object position   L-R     U-D    F-B
-		positionXYZ = glm::vec3(-15.5f, 2.53f, -9.5f);
-
-		// set the transformations into memory to be used on the drawn meshes
-		SetTransformations(
-			scaleXYZ,
-			XrotationDegrees,
-			YrotationDegrees,
-			ZrotationDegrees,
-			positionXYZ);
-	
-		// set texture and material
-		SetShaderTexture("Treetop");
-		SetTextureUVScale(2.0, 4.0);
-		SetShaderMaterial("wood");
-	
-		// draw mesh
-		m_basicMeshes->DrawConeMesh();
-	```.
-
-</details>
-
-
-<details>
-  <summary>Result Image</summary>
-
-![EnhancedScene](https://github.com/user-attachments/assets/398ef908-d168-4322-82c2-bada2986b3fd)
-
-</details>
-
-## Created Object Example
-```C++
+  ```C++
 	void SceneManager::RenderTrees(){
 
 		// declare the variables for the transformations
@@ -122,6 +70,19 @@
 		// draw mesh
 		m_basicMeshes->DrawConeMesh();
 ```
+
+</details>
+
+Add an original result image here
+
+<details>
+  <summary>Enhanced Result Image</summary>
+
+![EnhancedScene](https://github.com/user-attachments/assets/398ef908-d168-4322-82c2-bada2986b3fd)
+
+</details>
+
+
 
 ***
 
