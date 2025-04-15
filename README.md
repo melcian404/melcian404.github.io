@@ -22,12 +22,16 @@
 </details>
 
 <details>
-	<summary>Enhancements Completed</summary>
+	<summary>Project Enhancements</summary>
 	The enhancements for this artifact were completed on March, 23, 2025. Enhancments include:
-	- Refined inline comments to be concise and descriptive for detailing each function of code.
-	- Adding block comments to detail portions of code completed. 
-	- Adding three complex objects of varying shapes, colors, sizes, and characteristics.
-	- Refined and combined object methods to reduce code redundancies.
+	
+	* Refined inline comments to be concise and descriptive for detailing each function of code.
+ 
+	* Adding block comments to detail portions of code completed. 
+ 
+	* Adding three complex objects of varying shapes, colors, sizes, and characteristics.
+ 
+	* Refined and combined object methods to reduce code redundancies.
 </details>
 
 ## Enhancements Completed
