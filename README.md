@@ -11,7 +11,7 @@
   <source src="https://github.com/melcian404/melcian404.github.io/raw/refs/heads/main/docs/assets/3Dvid.mp4">
 </video>
 
-- [Github Repository](https://github.com/melcian404/Comp-Graphic-and-Visualization)
+- [Github Repository](https://github.com/melcian404/CPP-3D-Scene)
 
 ## Project Description
 This artifact utilizes an OpenGL graphics processing unit (GPU) and C++ to create a 3D model using texture, lighting, and object rendering and controls the virtual environment with hotkeys and camera positions. This includes zooming in and out, panning up and down, left and right, as well as tracking mouse movement. The scene required a combination of simple and complex objects. It depicts a scene of children's toys on a table and was initially created on July 20, 2024.
