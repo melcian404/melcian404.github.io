@@ -73,12 +73,19 @@
 
 </details>
 
-![Original Scene] (/melcian404.github.io/docs/assets/OriginalScene.png)
+<details>
+	<summary>Original Result Image</summary>
+	
+![Original Scene](https://github.com/melcian404/melcian404.github.io/blob/main/docs/assets/OriginalScene.png)
+	
+</details>
+
+
 
 <details>
   <summary>Enhanced Result Image</summary>
 
-![EnhancedScene](https://github.com/user-attachments/assets/398ef908-d168-4322-82c2-bada2986b3fd)
+![EnhancedScene](https://github.com/melcian404/melcian404.github.io/blob/main/docs/assets/EnhancedScene.png))
 
 </details>
 
