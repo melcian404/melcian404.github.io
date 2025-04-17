@@ -73,7 +73,7 @@
 
 </details>
 
-Add an original result image here
+![Original Scene] (/melcian404.github.io/docs/assets/OriginalScene.png)
 
 <details>
   <summary>Enhanced Result Image</summary>
