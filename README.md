@@ -15,11 +15,8 @@
 
 
 
-## Enhancement Two
-- Description
-- Enhancements
-- Results
-
+## Java Sorting Algorithm - Enhancement Two
+[Click Here For Project Details](https://github.com/melcian404/Java-Sorting-Algorithm)
 
 
 ***
@@ -27,22 +24,6 @@
 - Description
 - Enhancements
 - Results
-
-
-
-***
-# Education
-- Summary 1
-- Summary 2
-- Summary 3
-
-
-
-***
-# Work history
-- summary 1
-- summary 2
-- summary 3
 
 
 
