@@ -85,7 +85,7 @@
 <details>
   <summary>Enhanced Result Image</summary>
 
-![EnhancedScene](https://github.com/melcian404/melcian404.github.io/blob/main/docs/assets/EnhancedScene.png))
+![EnhancedScene](https://github.com/melcian404/melcian404.github.io/blob/main/docs/assets/EnhancedScene.png)
 
 </details>
 
