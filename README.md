@@ -11,7 +11,7 @@
   <source src="https://github.com/melcian404/melcian404.github.io/raw/refs/heads/main/docs/assets/3Dvid.mp4">
 </video>
 
-[**Click Here For Project Details**](https://github.com/melcian404/CPP-3D-Scene)
+[Click Here For Project Details](https://github.com/melcian404/CPP-3D-Scene)
 
 ***
 
@@ -22,7 +22,7 @@
 </video>
 
 
-[<span style='color: blue;'> **Click Here For Project Details**</span>](https://github.com/melcian404/Java-Sorting-Algorithm)
+[Click Here For Project Details](https://github.com/melcian404/Java-Sorting-Algorithm)
 
 
 ***
