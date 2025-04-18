@@ -22,7 +22,7 @@
 </video>
 
 
-[**Click Here For Project Details**](https://github.com/melcian404/Java-Sorting-Algorithm)
+[<span style='color: blue;'> **Click Here For Project Details**</span>](https://github.com/melcian404/Java-Sorting-Algorithm)
 
 
 ***
