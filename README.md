@@ -7,7 +7,7 @@
 ***
 ## C++ with Visual Studio IDE - 3D Scene Enhancement One
 
-<video width="420" height="340" controls loop="" muted = "" autoplay="">
+<video width="560" height="315" controls loop="" muted = "" autoplay="">
   <source src="https://github.com/melcian404/melcian404.github.io/raw/refs/heads/main/docs/assets/3Dvid.mp4">
 </video>
 
@@ -16,6 +16,9 @@
 ***
 
 ## Java Sorting Algorithm - Enhancement Two
+
+
+
 [Click Here For Project Details](https://github.com/melcian404/Java-Sorting-Algorithm)
 
 
