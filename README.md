@@ -29,11 +29,8 @@
 
 
 ***
-## Ehancement Three
-- Description
-- Enhancements
-- Results
+## Event Tracking Database App using Java with Android Studio - Enhancement Three
 
-
+[Click Here For Project Details](https://github.com/melcian404/Java-Event-Track)
 
 ***
