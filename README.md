@@ -31,6 +31,10 @@
 ***
 ## Event Tracking Database App using Java with Android Studio - Enhancement Three
 
+<video width="560" height="315" controls loop="" muted = "" autoplay="">
+  <source src="https://github.com/melcian404/melcian404.github.io/raw/refs/heads/main/docs/assets/SignUpDatabase.mp4">
+</video>
+
 [Click Here For Project Details](https://github.com/melcian404/Java-Event-Track)
 
 ***
