@@ -39,8 +39,6 @@
 
 ***
 ## Professional Self-Assessment
-<details>
-  <summary>Click Here To Read</summary>
   
 My name is Melissa Cianfarano. I’m a student for a Bachelor of Science in Computer Science at Southern New Hampshire University (SNHU), and I'm pending graduation in May 2025.
 
@@ -55,4 +53,3 @@ These artifacts were chosen for my portfolio to showcase important skills every 
 
 After I obtain my degree, I’ll push my skills to the limit and create projects that reflect my standards and creativity.  I have many aspirations, certificates, and projects I wish to complete. I want to revisit the text-based Python game idea and create a new one, more of an interactive story. I’d also like to port that into a couple of different languages. There are some Android Studio apps I would like to make. I want to create a new 3D scene to have a realistic castle. As for certificates, I’ll be following the AWS software developer path and the AWS AI path. I also want to complete the Oracle Java certifications, the certified scrum developer certification, a CompTIA, CAPM, and I’m sure the list of goals will continue. After personal development, I’ll revisit obtaining a master’s degree. 
 
-</details>
