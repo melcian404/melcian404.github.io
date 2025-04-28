@@ -5,7 +5,7 @@
 
 
 ***
-## 3D Scene using C++ with Visual Studio - Enhancement One
+## 3D Scene using C++ with Visual Studio
 
 <video width="560" height="315" controls loop="" muted = "" autoplay="">
   <source src="https://github.com/melcian404/melcian404.github.io/raw/refs/heads/main/docs/assets/3Dvid.mp4">
@@ -17,7 +17,7 @@
 
 ***
 
-## Sorting Algorithm using Java with Eclipse - Enhancement Two
+## Sorting Algorithm using Java with Eclipse 
 
 <video width="560" height="315" controls loop="" muted = "" autoplay="">
   <source src="https://github.com/melcian404/melcian404.github.io/raw/refs/heads/main/docs/assets/Algorithm.mp4">
@@ -29,7 +29,7 @@
 
 
 ***
-## Event Tracking Database App using Java with Android Studio - Enhancement Three
+## Event Tracking Database App using Java with Android Studio
 
 <video width="560" height="315" controls loop="" muted = "" autoplay="">
   <source src="https://github.com/melcian404/melcian404.github.io/raw/refs/heads/main/docs/assets/SignUpDatabase.mp4">
