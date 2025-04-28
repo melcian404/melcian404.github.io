@@ -41,7 +41,7 @@ After I obtain my degree, I’ll push my skills to the limit and create projects
 
 
 ***
-## Event Tracking Database App using Java with Android Studio
+## Login SQLite Database App using Java with Android Studio
 
 <video width="560" height="315" controls loop="" muted = "" autoplay="">
   <source src="https://github.com/melcian404/melcian404.github.io/raw/refs/heads/main/docs/assets/SignUpDatabase.mp4">
